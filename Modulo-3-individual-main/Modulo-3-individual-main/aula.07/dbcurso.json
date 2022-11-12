@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "nome": "Alessandra",
+      "endereço": "Rua beija flor",
+      "bairro": "Campo Grande",
+      "cidade": "Rio de Janeiro",
+      "email": "alessandrarochaeoliveira@gmail.com",
+      "modalidade": "Voleibol",
+      "id_Matricula":0003,
+      "id": 1
+    },
+    {
+      "nome": "Maria",
+      "endereço": "Rua Pedro de Melo",
+      "bairro": "Padre Miguel",
+      "cidade": "Rio de Janeiro",
+      "email": "mariaoliveira@gmail.com",
+      "modalidade":"Basquete",
+      "id_Matricula": 0002,
+      "id": 2
+    },
+    {
+      "nome": "João da Silva",
+      "endereço": "Rua XYZ",
+      "bairro": "Feliz",
+      "cidade": "Belo Horizonte",
+      "email": "silva.joao@gmail.com",
+      "modalidade":"Futebol",
+      "id_matricula":0007,
+      "id": 3
+    },
+    {
+      "nome": "Fatima Maria",
+      "endereço": "Rua das laranjeiras",
+      "bairro": "Catete",
+      "cidade": "Rio de Janeiro",
+      "email": "maria.fatima@gmail.com",
+      "modalidade":"Hidroginastica",
+      "id_Matricula": 0027,
+      "id": 4
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Natação",
+      "id": 1
+    },
+    {
+      "nome": "Atletismo",
+      "id": 2
+    }
+  ]
+}
